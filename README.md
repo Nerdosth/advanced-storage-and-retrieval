@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 
-This challenge outlines the steps uysing Python and SQLAlchemy to do analysis and data exploration of weather data in Hawaii. Then building out an API App that organizes important data from the dataset. Here are some highlights of the challenge. See the exploratory_analysis.ipynb and hawaii.api.py for the complete code. 
+This challenge outlines the steps uysing Python and SQLAlchemy to do analysis and data exploration of weather data in Hawaii. Then building out an API App that organizes important data from the dataset. Here are some highlights of the challenge. See the exploratory_analysis.ipynb and hawaii_api.py for the complete code. 
 
 <img width="883" alt="image" src="https://user-images.githubusercontent.com/76061893/205748687-fa148cdb-8311-41f7-b621-b2c3485ec277.png">
 
